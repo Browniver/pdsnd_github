@@ -7,10 +7,10 @@
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![Status](https://img.shields.io/badge/status-not__active-orange.svg)]()
+<!--- [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
+#[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+#[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE) --->
 
 </div>
 
@@ -70,7 +70,7 @@ I also enjoyed using Pycharm in combination with anaconda
 
 A step by step series of examples that tell you how to get a development env running.
 
-https://www.gitpod.io/
+https://www.gitpod.io/ 
 
 https://www.anaconda.com/distribution/?gclid=CjwKCAiAlajvBRB_EiwA4vAqiFfBPrr3BYmvLpQ3T_8Hch7yu1NYAStpc2reB35ugD1ABFpkmts52BoC5LcQAvD_BwE
 
@@ -81,8 +81,6 @@ https://www.digitalocean.com/community/tutorials/how-to-import-modules-in-python
 Pandas: https://pandas.pydata.org/
 NumPy: https://numpy.org/
 time: https://docs.python.org/3/library/time.html
-
-
 
 
 ## 🔧 Running the tests <a name = "tests"></a>
