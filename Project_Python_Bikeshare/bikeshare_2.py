@@ -30,7 +30,7 @@ def get_filters():
     while month not in ['all', 'january', 'february', 'march', 'april', 'may', 'june']:
         month = input("Sorry man! Looks like you made a typo or we do not have data for this month. Please, try again").lower()
 
-    # get user input for day of week (all, monday, tuesday, ... sunday)
+    #get user input for day of week (all, monday, tuesday, ... sunday)
 
 
     day = input("If you are looking for a specific day please enter the name of the day. If not just enter 'all' to select all days: ").lower()
