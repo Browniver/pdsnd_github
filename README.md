@@ -87,18 +87,18 @@ time: https://docs.python.org/3/library/time.html
 
 ## 🔧 Running the tests <a name = "tests"></a>
 
-tbd
+tbd.
 
 ### Break down into end to end tests
 
-tbd
+tbd.
 
 ### And coding style tests
 
 
 ## 🎈 Usage <a name="usage"></a>
 
-tbd
+tbd.
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
