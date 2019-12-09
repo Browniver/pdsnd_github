@@ -108,7 +108,7 @@ download and run the script :D
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@OliverBraun93](https://github.com/Browniver) - Idea & Initial work
+- [@Browniver](https://github.com/Browniver) - Idea & Initial work
 
 See also the list of [contributors](https://github.com/Browniver) who participated in this project.
 
